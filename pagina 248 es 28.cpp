@@ -5,7 +5,7 @@
 #include <cstring>
 #include <ctime>
 
-#define DIM_MAX 50
+#define DIM_MAX 100
 
 using namespace std;
 
